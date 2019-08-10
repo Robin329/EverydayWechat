@@ -67,6 +67,7 @@ alarm_info:
   girlfriend_infos:
     #女友微信昵称或者备注名，不能输入微信号。（如填：文件传输助手，发消息到文件传输助手，测试效果）
     - wechat_name: 
+        - '杨云兰'
         - '谢明尧'
         - '文件传输助手'
       group_name:
